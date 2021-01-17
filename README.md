@@ -6,7 +6,7 @@ Para poder utilizar este application es necesario exportar la estructura y data 
 la carpeta **Database structure and data exported** usando mySQL workbench, una vez tenemos creada la estructura de la base de datos procedemos 
 a ejecutar el archivo **Cuentas de ahorro.sql** para que se cree nuestro procedimiento almacenado.
 
-Una vez terminamos de configurar nuestra Base de datos y crear el procedimiento podemos arrancar la aplicacion  y utilar la siguiente ruta para validar la ejecucion del mismo
+Una vez terminamos de configurar nuestra Base de datos y crear el procedimiento podemos arrancar la aplicacion, la misma se encuentra en la sub carpeta **Saving Account** y utilizar la siguiente ruta para validar la ejecucion del mismo
 
 http://localhost:8081/deposit-account/saving
 
